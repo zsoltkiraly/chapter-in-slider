@@ -1,7 +1,7 @@
 # Chapter in slider v1.2.9
 
 <br />
-<a href="http://zsoltkiraly.com/developments/chapter-in-slider/" target="_blank">DEMO PAGE</a>
+<a href="https://zsoltkiraly.com/developments/chapter-in-slider/" target="_blank">DEMO PAGE</a>
 
 #
 <br />
