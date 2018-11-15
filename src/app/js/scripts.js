@@ -136,12 +136,12 @@ var chapterInSlider = function() {
 
                     if (getInternetExplorerVersion() > -1) {
                         if (getInternetExplorerVersion() > 9.0) {
-                            if (window.matchMedia("(min-width: 998px)").matches) {
+                            if (window.matchMedia('(min-width: 998px)').matches) {
                                 topSlider(cIS);
                             }
                         }
                     } else {
-                        if (window.matchMedia("(min-width: 998px)").matches) {
+                        if (window.matchMedia('(min-width: 998px)').matches) {
                             topSlider(cIS);
                         }
                     }
